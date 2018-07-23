@@ -1,3 +1,19 @@
+**Steps to add local repository to git repository**
+1. cd 项目根目录
+   __git init__
+2. 加入仓库
+   __git add *__
+3. 提交
+   __git commit -m "init commit"__
+4. 在 github 新建一个仓库  复制仓库地址
+5. 本地仓库添加远程仓库
+   __git remote add origin github_repository (url)__
+6. 拉取文件
+   __git pull origin master__
+7. 推送到远程仓库
+   __git push origin master__
+   
+
 **git clone <url>**
 - makes a copy of a repository
 - stores it on your computer
