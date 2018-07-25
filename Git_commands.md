@@ -31,3 +31,7 @@
 
 **git status**
 - show current status of repository
+
+**git push**
+- sends commited changes to remmote repository
+- more explicitly, could write git push origin master
