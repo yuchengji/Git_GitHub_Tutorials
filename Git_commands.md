@@ -58,3 +58,6 @@
 - show all branchs of code
 - create a branch with **git branch <branch_name>**
 - switch to ("checkout") a new branch with git checkout **<branch_name>**
+
+**git merge"
+- **git merge <branch_name>** merges the branch branch_name with current branch
