@@ -35,3 +35,6 @@
 **git push**
 - sends commited changes to remmote repository
 - more explicitly, could write git push origin master
+
+**git pull**
+- receives changes from remote repository
