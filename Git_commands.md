@@ -53,3 +53,8 @@
 **branching**
 - branch is a version of the repository
 - each branch has its own commit history and current version
+
+**git branch**
+- show all branchs of code
+- create a branch with **git branch <branch_name>**
+- switch to ("checkout") a new branch with git checkout **<branch_name>**
