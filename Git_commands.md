@@ -61,3 +61,8 @@
 
 **git merge"
 - **git merge <branch_name>** merges the branch branch_name with current branch
+
+**git --config global user.name "username"**
+**git --config global user.email "email"**
+**git --config global core.autocrlf false**
+- **CRLF** 是 Carriage-Return Line-Feed 的缩写，意思是**回车换行**。
