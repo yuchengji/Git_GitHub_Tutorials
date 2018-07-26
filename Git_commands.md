@@ -38,3 +38,7 @@
 
 **git pull**
 - receives changes from remote repository
+
+**git conflicts**
+- when two different commits can't be automatically merged
+- need to be resolved
