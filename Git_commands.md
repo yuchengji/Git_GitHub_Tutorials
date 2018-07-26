@@ -49,3 +49,7 @@
 **git reset**
 - **git reset --hard <commit>** reverts code back to a previous commit
 - **git reset --hard origin/master** reverts code back to remote repository version
+
+**branching**
+- branch is a version of the repository
+- each branch has its own commit history and current version
