@@ -45,3 +45,7 @@
 
 **git log**
 - shows a history of commits and messages
+
+**git reset**
+- **git reset --hard <commit>** reverts code back to a previous commit
+- **git reset --hard origin/master** reverts code back to remote repository version
