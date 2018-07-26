@@ -42,3 +42,6 @@
 **git conflicts**
 - when two different commits can't be automatically merged
 - need to be resolved
+
+**git log**
+- shows a history of commits and messages
